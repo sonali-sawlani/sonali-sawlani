@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Sonali Sawlani
+<br>
+Hey, this is Sonali :)
+<br>
+I am Graduated Computer Science Engineer with high spirits who has currently started documenting the journey on instagram because someone said it right It's not about the destination, it's about the journey .
+<br>
+I am working as Software Developer in an august organisation on frontend framework: Angular and learning Flutter out of interest and exploring to find what fits right to my interest in this tech industry.
+<br>
+A few of my hobbies apart from tech industry includes sketching, traveling to get wind of new places and cultures.
+<br>
 <!--
 **sonali-sawlani/sonali-sawlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
