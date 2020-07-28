@@ -8,6 +8,8 @@ I am working as Software Developer in an august organisation on frontend framewo
 <br>
 A few of my hobbies apart from tech industry includes sketching, traveling to get wind of new places and cultures.
 <br>
+
+[![Sonali's github stats](https://github-readme-stats.vercel.app/api?username=sonali-sawlani)](https://github.com/sonali-sawlani/github-readme-stats)
 <!--
 **sonali-sawlani/sonali-sawlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
