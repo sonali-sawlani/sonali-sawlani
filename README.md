@@ -11,7 +11,7 @@ A few of my hobbies apart from tech industry includes sketching, traveling to ge
 <br>
 <br>
 
-[![Sonali's github stats](https://github-readme-stats.vercel.app/api?username=sonali-sawlani)](https://github.com/sonali-sawlani/github-readme-stats)
+[![Sonali's github stats](https://github-readme-stats.vercel.app/api?username=sonali-sawlani&count_private=true&show_icons=true&theme=radical)](https://github.com/sonali-sawlani/github-readme-stats)
 <!--
 **sonali-sawlani/sonali-sawlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
