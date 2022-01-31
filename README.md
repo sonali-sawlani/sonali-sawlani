@@ -2,11 +2,13 @@
 <br>
 Hey, this is Sonali :)
 <br>
-I am Graduated Computer Science Engineer with high spirits who has currently started documenting the journey on instagram because someone said it right It's not about the destination, it's about the journey .
+Hey, this is Sonali (Computer Science graduate) having 2.5 years of experience in software development.
 <br>
-I am working as Software Developer in an august organisation on frontend framework: Angular and learning Flutter out of interest and exploring to find what fits right to my interest in this tech industry.
+Currently I am working as Full Stack Developer in an august organization building a "Visualization tool" which reduces manual effort of analyzing data in excel sheets and represents it in forms of charts and graphs which makes it easier for top management people to analyze and calculate key performance indicators. I have received 3 appreciation awards for my dedication and competency at work.
 <br>
-A few of my hobbies apart from tech industry includes sketching, traveling to get wind of new places and cultures.
+My passion for coding dates back to high school days when I got excited just by moving some text on my static webpage (if anyone remembers the marquee tag). 
+<br>
+A few of my hobbies apart from tech industry includes sketching, traveling to get wind of new places and cultures. Last couple of years have taught me that your mindset matters the most for your growth. The idea that motivates me is to be competent enough to avoid stagnation.
 <br>
 <br>
 <br>
