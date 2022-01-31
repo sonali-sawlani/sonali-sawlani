@@ -2,7 +2,7 @@
 <br>
 Hey, this is Sonali (Computer Science graduate) having 2.5 years of experience in software development.
 <br>
-Currently I am working as Full Stack Developer in an august organization building a "Visualization tool" which reduces manual effort of analyzing data in excel sheets and represents it in forms of charts and graphs which makes it easier for top management people to analyze and calculate key performance indicators. I have received 3 appreciation awards for my dedication and competency at work.
+Currently I am working as Full Stack Developer in an august organization building a "Visualization tool" which reduces manual effort of analyzing data in excel sheets and represents it in forms of charts and graphs.
 <br>
 My passion for coding dates back to high school days when I got excited just by moving some text on my static webpage (if anyone remembers the marquee tag). 
 <br>
