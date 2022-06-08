@@ -1,8 +1,8 @@
 ### Sonali Sawlani
 <br>
-Hey, this is Sonali (Computer Science graduate) having 2.5 years of experience in software development.
+Hey, this is Sonali (Computer Science graduate) having 3 years of experience in software development.
 <br>
-Currently I am working as Full Stack Developer in an august organization building a "Visualization tool" which reduces manual effort of analyzing data in excel sheets and represents it in forms of charts and graphs.
+Currently I am working as Java Backend Developer in an august organization.
 <br>
 My passion for coding dates back to high school days when I got excited just by moving some text on my static webpage (if anyone remembers the marquee tag). 
 <br>
